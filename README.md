@@ -4,4 +4,4 @@
   3. Dice rolling simulator gives random dice rolling combinations
   4. Site connectivity takes up an email and checks its connectivity and response
   5. Word replacement program is a basic program to replace the words given to it by a replaced input word
-  6. 
+
